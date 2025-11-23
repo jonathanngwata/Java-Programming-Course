@@ -10,7 +10,6 @@ public class Value{
 	}
 
 	public static void main(String args[]){
-		Value v = new Value();
 
 		int test_value = 33;
 
