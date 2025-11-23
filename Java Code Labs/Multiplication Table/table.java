@@ -1,4 +1,4 @@
-//App that calculates multiplication table of 2
+//App that calculates multiplication table 1-12 of any positive interger number 
 import java.util.Scanner;
 
 public class table{
